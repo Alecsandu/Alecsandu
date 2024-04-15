@@ -1,2 +1,2 @@
 ## Hello There!
-Backend developer and computer graphics enthusiast.
+Backend developer and computer graphics enjoyer.
