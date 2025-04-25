@@ -1,2 +1,2 @@
 ## Hello There!
-Backend developer and computer graphics enjoyer.
+I am Alex, a backend developer and computer graphics enjoyer.
